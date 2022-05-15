@@ -40,7 +40,6 @@ var quotes = [
 
 
 
-// call the button 
 // call the quote text
 // call the author
 
